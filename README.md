@@ -22,7 +22,7 @@ Let's create a scalable [WordPress plugin][WP Plugin Page] to make district oper
 
   *imagine technology that actually makes meetings more productive*
 
-Compliant with the [*Manual of the Church of the Nazarene*][Manual] and the [*WordPress Plugin Handbook*][WP Plugin Handbook].
+**Compliant with the [*Manual of the Church of the Nazarene*][Manual] and the [*WordPress Plugin Handbook*][WP Plugin Handbook]**
 
 ## Motivation
 
@@ -99,4 +99,4 @@ Collaborators and translators welcome.
 [Reuben About]: http://reubenlillie.com/about                                                  "About Reuben L. Lillie"
 [Reuben Twitter]: https://twitter.com/reubenlillie/                                            "Reuben L. Lillie on Twitter"
 [WP Plugin Page]: http://codex.wordpress.org/Writing_a_Plugin                                  "Write a WordPress Plugin"
-[WP Plugin Handbook]: (https://developer.wordpress.org/plugins/the-basics/header-requirements/ "WordPress Plugin Handbook"
+[WP Plugin Handbook]: https://developer.wordpress.org/plugins/the-basics/header-requirements/ "WordPress Plugin Handbook"
