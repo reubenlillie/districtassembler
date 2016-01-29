@@ -98,5 +98,6 @@ Collaborators and translators welcome.
 [Plugin Boilerplate]: https://github.com/DevinVinson/WordPress-Plugin-Boilerplate              "WordPress Plugin Boilerplate"
 [Reuben About]: http://reubenlillie.com/about                                                  "About Reuben L. Lillie"
 [Reuben Twitter]: https://twitter.com/reubenlillie/                                            "Reuben L. Lillie on Twitter"
+[Reuben Contact]: http://reubenlillie.com/contact/                                             "Contact Reuben L. Lillie"
 [WP Plugin Page]: http://codex.wordpress.org/Writing_a_Plugin                                  "Write a WordPress Plugin"
 [WP Plugin Handbook]: https://developer.wordpress.org/plugins/                                 "WordPress Plugin Handbook"
