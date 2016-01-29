@@ -34,7 +34,7 @@ The problem is:
 
 * facilitating the mission is often threatened by the need to maintain facilities,
 * mutual support is often at risk of becoming a series of self-inflicted, one-way, top-down "relationships",
-* and the impulse to share resources is routinely hindered by a lack or shared responsibility, all because . . .
+* and the impulse to share resources is routinely hindered by a lack of shared responsibility, all because . . .
 
 . . . people make collaboration difficult. 
 
